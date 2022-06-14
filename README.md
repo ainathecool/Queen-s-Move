@@ -1,5 +1,5 @@
 # Queen-s-Move
-An interactive puzzle developed in C++ based on the popular N-Queens problem. 
+An interactive puzzle developed in C++, with OOP concepts, based on the popular N-Queens problem. 
 
 The Queen’s Move puzzle deals with the problem of placing N chess queens on an N x N chessboard so that no two queens threaten each other. The intended behavior of the resultant software is such that the user plays and succeeds in a manner that no two queens are in the same row, the same column, or along the same diagonal. These are the functional requirements of the software, maintaining the system logic and architecture requirements.
 
